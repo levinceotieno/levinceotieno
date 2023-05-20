@@ -1,6 +1,4 @@
-        <h1 align="center"> I'M LEVINCE, A DevOps ENGINEER</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=levinceotieno&label=Profile%20views&color=0e75b6&style=flat" alt="levinceotieno" /> </p>
-
+        I'M LEVINCE, A DevOps ENGINEER
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4FF97F8&background=000000&center=true&multiline=true&width=535&height=70&lines=I'm+thrilled+to+have+you+here;Feel+encouraged+to+look+around...)](https://git.io/typing-svg)
 
 🧠 I turn ideas into reality with elegant code.
