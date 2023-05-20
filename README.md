@@ -43,9 +43,6 @@ Twitter: https://twitter.com/Peenut_now?t=65xRQ3_vIEW48o8QEds25w&s=09
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levinceotieno" alt="levinceotieno" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
