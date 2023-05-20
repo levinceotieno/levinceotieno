@@ -1,17 +1,19 @@
-        I'M LEVINCE, A DevOps ENGINEER 
+        <h1 align="center"> I'M LEVINCE, A DevOps ENGINEER</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=levinceotieno&label=Profile%20views&color=0e75b6&style=flat" alt="levinceotieno" /> </p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4FF97F8&background=000000&center=true&multiline=true&width=535&height=70&lines=I'm+thrilled+to+have+you+here;Feel+encouraged+to+look+around...)](https://git.io/typing-svg)
 
 🧠 I turn ideas into reality with elegant code.
 
-Programming languages: Java, Python, JavaScript, Kotlin.
+■ Programming languages: Java, Python, JavaScript, Kotlin.
 
-Web development: HTML, CSS, React.js, Node.js.
+■ Web development: HTML, CSS, React.js, Node.js.
 
-Mobile app development: Android, Kotlin.
+■ Mobile app development: Android, Kotlin.
 
-Databases: MySQL, SQLite.
+■ Databases: MySQL, SQLite.
 
-Version control: Git, GitHub.
+■ Version control: Git, GitHub.
 
 🤝 Let's connect and collaborate! Together, we can make a positive impact in the world of technology.
 
@@ -41,6 +43,11 @@ Twitter: https://twitter.com/Peenut_now?t=65xRQ3_vIEW48o8QEds25w&s=09
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levinceotieno&" alt="levinceotieno" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levinceotieno" alt="levinceotieno" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 
