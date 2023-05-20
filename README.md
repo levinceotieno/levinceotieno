@@ -1,7 +1,7 @@
              I,M LEVINCE OTIENO OKEYO
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+thrilled+to+have+you+here...;Take+a+look+around+and+explore...)](https://git.io/typing-svg)
 
-👋 Hello there! I'm a passionate software developer with a love for Tech.
+I'm a passionate software developer with a love for Tech.
 
 🚀 I thrive on transforming ideas into reality through elegant and efficient code. My journey in the world of programming started a few weeks ago. Since then, I've been honing my skills in Python, C++, javaskript, and HTML.
 
@@ -13,7 +13,20 @@
 
 ✨ Let's connect and collaborate! I'm excited to engage with fellow developers, share ideas, and contribute to meaningful projects. Feel free to explore my repositories, reach out for collaborations, or drop a message. Together, we can make a positive impact in the world of technology.
 
-📫 You can reach me via levynceotieno@gmail.com or find more about my work on my LinkedIn:https://www.linkedin.com/in/levince-otieno-9a0481239. Looking forward to connecting with you!
-
-
 Keep coding and stay curious! 🚀
+
+<p align="left"> <a href="https://twitter.com/peenut_now" target="blank"><img src="https://img.shields.io/twitter/follow/peenut_now?logo=twitter&style=for-the-badge" alt="peenut_now" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/peenut_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peenut_now" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/levince-otieno-9a0481239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/levince-otieno-9a0481239" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levinceotieno&show_icons=true&locale=en" alt="levinceotieno" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levinceotieno&" alt="levinceotieno" /></p>
+
