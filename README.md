@@ -1,15 +1,13 @@
-             I,M LEVINCE OTIENO OKEYO
+      I'M LEVINCE, A DevOps ENGINEER 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4FF97F8&background=000000&center=true&multiline=true&width=535&height=70&lines=I'm+thrilled+to+have+you+here;Feel+encouraged+to+look+around...)](https://git.io/typing-svg)
 
-💡 I'm constantly mesmerized by the endless possibilities that code unlocks!
+🧠 I turn ideas into reality with elegant code.
 
-🔧 I turn ideas into reality with elegant code. Skilled in Python, C++, JavaScript, and HTML.
-
-🧠 Whether it's developing robust applications, optimizing performance, or collaborating with a team, I'm always eager to take on new ventures.
-
-🔬 On my GitHub, you'll find a diverse range of projects that showcase my expertise and passion.
-
-🎓 Lifelong learner, exploring tech trends and open to collaboration. I aim to grow both personally and professionally.
+Programming languages: Java, Python, JavaScript, Kotlin.
+Web development: HTML, CSS, React.js, Node.js.
+Mobile app development: Android, Kotlin.
+Databases: MySQL, SQLite.
+Version control: Git, GitHub.
 
 🤝 Let's connect and collaborate! Together, we can make a positive impact in the world of technology.
 
@@ -24,7 +22,8 @@ Keep coding and stay curious! 🚀
 <a href="https://twitter.com/peenut_now" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peenut_now" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/levince otieno okeyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levince otieno okeyo" height="30" width="40" /></a>
 </p>
-Email: levynceotieno@gmail.com
+Email:("levynceotieno@gmail.com")
+
 
 LinkedIn: https://www.linkedin.com/in/levince-otieno-okeyo-9a0481239
 
