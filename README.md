@@ -1,5 +1,5 @@
              I,M LEVINCE OTIENO OKEYO
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+thrilled+to+have+you+here...;Feel+encouraged+to+look+around...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4FF97F8&background=000000&center=true&multiline=true&width=535&height=70&lines=I'm+thrilled+to+have+you+here;Feel+encouraged+to+look+around...)](https://git.io/typing-svg)
 
 💡 I'm constantly mesmerized by the endless possibilities that code unlocks!
 
