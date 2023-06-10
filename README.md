@@ -1,5 +1,5 @@
         I'M LEVINCE, A DevOps ENGINEER
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F71F&background=FFFFFF&multiline=true&lines=Hey%2C+welcome+aboard;Feel+free+to+look+around+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=35&pause=1000&color=000000&background=FFEE4EFD&center=true&vCenter=true&width=450&height=70&lines=Unlocking+all+doors" alt="Typing SVG" /></a>
 
 SKILLS
 
