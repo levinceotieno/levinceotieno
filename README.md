@@ -3,7 +3,7 @@
 
 SKILLS
 
-Java - Python - JavaScript - HTML - CSS - C
+Python - JavaScript - HTML - CSS - C
 
 Databases: MySQL, SQLite.
 
