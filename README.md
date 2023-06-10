@@ -1,17 +1,11 @@
         I'M LEVINCE, A DevOps ENGINEER
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F71F&background=FFFFFF&multiline=true&lines=Hey%2C+welcome+aboard;Feel+free+to+look+around+" alt="Typing SVG" /></a>
 
-🧠 I turn ideas into reality with elegant code.
+SKILLS
 
-■ Programming languages: Java, Python, JavaScript, Kotlin.
+Java - Python - JavaScript - HTML - CSS - C
 
-■ Web development: HTML, CSS, React.js, Node.js.
-
-■ Mobile app development: Android, Kotlin.
-
-■ Databases: MySQL, SQLite.
-
-■ Version control: Git, GitHub.
+Databases: MySQL, SQLite.
 
 🤝 Let's connect and collaborate! Together, we can make a positive impact in the world of technology.
 
