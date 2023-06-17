@@ -3,12 +3,12 @@
 
 📫 **levynceotieno@gmail.com**
 
-"Houston, we have a problem here
-The oxygen tanks have exploded
-We're losing power and air
-We're not sure how we're going to make it home
+"Houston, we have a problem here.
+The oxygen tanks have exploded.
+We're losing power and air.
+We're not sure how we're going to make it home.
 
-But we're not giving up
+But we're not giving up.
 We're going to do everything we can
 To get back to Earth safely"
 
